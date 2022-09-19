@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #  Kodluyoruz İlk Repo
 
@@ -21,5 +22,6 @@ Linux için:
 Çekme talep edenler kabul edilir. Büyük malzeme için, lütfen önce konu için tartışma konusu için bir konu.
 
 ##  Lisans
-
 [ MIT ](https://github.com/Turanrabia/kodluyoruzilkrepo.git)
+
+=======
